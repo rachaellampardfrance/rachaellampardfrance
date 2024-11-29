@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Rachael Lampard-France 👋
+
+- 🖥️ I'm an aspiring Software Developer and Automation Tester
+- 🎮 I've got 2+ years of experience in the Games Industry 
+    - 🐞 1 year as a QA Tester in a client facing role
+    - 👾 1 + years as a an in house Concept Artist in addition to client
+- 🖱️ I've got skills in
+    - 🐍 Python3
+- 🌱 I’m currently learning Postman and API testing
 
 <!--
 **rachaellampardfrance/rachaellampardfrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
