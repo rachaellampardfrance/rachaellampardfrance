@@ -11,5 +11,5 @@
         - 🔧 Manual Testing: exploratory, test plans, smoke and regression
         - 🤖 Automation Testing: Pytest
         - 💠Jira
-- 🌱 I’m currently learning Flask, Postman and API testing
+- 🌱 I’m currently learning Flask, Selenium and API testing
 
